@@ -1,0 +1,18 @@
+/* @import "/scss/main.scss"; */
+@import "base/reset.css";
+@import "base/root.css";
+@import "base/global.css";
+@import "base/utilities.css";
+@import "base/media.css";
+
+@import "components/quotes.css";
+@import "components/ratings.css";
+
+.attribution {
+font-size: 11px;
+text-align: center;
+}
+
+.attribution a {
+color: hsl(228, 45%, 44%);
+}

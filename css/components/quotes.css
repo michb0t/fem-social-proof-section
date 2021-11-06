@@ -1,0 +1,35 @@
+.quotes blockquote {
+    background: var(--clr-primary-700);
+    color: var(--clr-neutral-200);
+    text-align: left;
+    padding: var(--spacer);
+    border-radius: var(--br);
+    max-width: 25rem;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+}
+
+.quotes img {
+    margin-right: var(--spacer);
+    border-radius: 50%;
+    width: 3rem;
+}
+
+.quote {
+    margin-bottom: var(--spacer);
+}
+
+.quote__status {
+    color: var(--clr-primary-300);
+}
+
+.quote__name {
+    font-weight: 700;
+}
+
+.quote__text {
+    margin-top: var(--spacer);
+    line-height: 1.5rem;
+
+}

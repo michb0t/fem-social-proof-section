@@ -1,0 +1,61 @@
+@media (min-width: 50em) {
+    :root {
+        --fs-900: 3rem;
+    }
+
+
+    .flex {
+        flex-direction: row;
+        gap: .5em;
+    }
+    
+    main {
+        grid-template-columns: 1fr 1.5fr;
+        text-align: left;
+    }
+
+    h1 {
+        margin: 0;
+    }
+
+    /* grid layout */
+    .intro {
+        grid-column: 1/2;
+    }
+
+    .reviews {
+        grid-column: 2/3;
+        align-self:center;
+    }
+
+    .quotes {
+        grid-column: 1/-1;
+    }
+
+    
+    .review {
+        display: flex;
+        padding: 1em 3em;
+        align-content: center;
+    }
+    
+    .reviews > li::before {
+        margin: 0 2rem 0 0 ;
+    }
+
+    .reviews >li:first-child {
+        margin-left: 2rem;
+    }
+    .reviews >li:last-child {
+        margin-right: 2rem;
+    }
+
+    .quotes > li:nth-child(2) {
+        transform: translateY(3rem);
+    }
+    .quotes > li:last-child{
+        transform: translateY(6rem);
+    }
+
+}
+
