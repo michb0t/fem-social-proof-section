@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Final Desktop View](/final/desktop-view.JPG.jpg)
+![Final Desktop View](/final/desktop-view.jpg)
 ![Final Mobile View](/final/mobile-view.JPG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frotnend Mentor Solution](https://www.frontendmentor.io/solutions/social-proof-section-using-css-and-html-F_Nr0yWc1)
+- Live Site URL: [Github Live Solution Link](https://michb0t.github.io/fem-social-proof-section/)
 
 ## My process
 
