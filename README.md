@@ -24,7 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Final Desktop View](/final/desktop-view.jpg)
+(![desktop-view](https://user-images.githubusercontent.com/81781093/140600000-45ca0206-5e1b-4eae-873c-660ba2b1f9a6.JPG)
+)
 ![Final Mobile View](/final/mobile-view.JPG)
 
 ### Links
