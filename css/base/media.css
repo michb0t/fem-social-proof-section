@@ -39,9 +39,9 @@
         align-content: center;
     }
     
-    .reviews > li::before {
+    /* .reviews > li::before {
         margin: 0 2rem 0 0 ;
-    }
+    } */
 
     .reviews >li:first-child {
         margin-left: 2rem;
